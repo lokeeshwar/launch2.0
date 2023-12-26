@@ -1,0 +1,33 @@
+.imageSlider {
+  display: flex;
+  align-items: center;
+}
+
+.imageSlider .slides img {
+  width: 100%;
+}
+
+.imageSlider #imgslider-button1 {
+  position: absolute;
+  border-color: transparent;
+  background-color: transparent;
+}
+
+.imageSlider #imgslider-button2 {
+  position: absolute;
+  left: 97%;
+  border-color: transparent;
+  background-color: transparent;
+}
+
+.imageSlider #imgslider-button1 svg {
+  height: 102px;
+  width: 30px;
+  color: #fff;
+}
+
+.imageSlider #imgslider-button2 svg {
+  height: 102px;
+  width: 30px;
+  color: #fff;
+}

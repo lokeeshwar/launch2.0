@@ -1,0 +1,35 @@
+.aboutSection{
+    box-shadow: 0 5px 25px 0 rgba(214, 215, 216, 0.6);
+    margin: 25px 50px;
+    display: flex;
+}
+
+.aboutSection img{
+    width: 580px;
+    padding: 15px 
+}
+
+.aboutSection .about-right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+}
+
+.aboutSection .about-right h2{
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+    color: #5c768d;
+
+}
+
+
+.aboutSection .about-right p{
+    color: #666;
+    padding-top: 14px;
+    line-height: 26px;
+    text-align: justify;
+
+}

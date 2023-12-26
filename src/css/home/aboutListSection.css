@@ -1,0 +1,19 @@
+.aboutList{
+    padding: 40px;
+}
+
+.aboutList ul{
+display: flex;
+}
+
+.aboutList .list-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.aboutList .list-content p{
+    color: #aaaaaa;
+    font-size: 15px;
+    padding: 30px
+}
+
